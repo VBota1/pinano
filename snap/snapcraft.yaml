@@ -9,7 +9,7 @@ confinement: strict # use 'strict' once you have the right plugs and slots
 
 parts:
   pinano:
-    source: /home/vbota/workspace/nano/nano-2.8.4
+    source: /home/user/workspace/nano/nano-2.8.4
     plugin: autotools
 
 apps:
