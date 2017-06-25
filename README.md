@@ -18,7 +18,7 @@ All credits go to the GNU nano developers:
     * or by cloning repository: ```git clone https://github.com/VBota1/pinano```
   2. Then navigate to the folder containing the snap
   3. Then run:
-    ```sudo snap install --dangerous pinano_2.8.4_armhf.snap```
+    ```sudo snap install --dangerous pinano_2.8.5_armhf.snap```
 
 # installation from ubuntu store
   ```sudo snap install pinano```
