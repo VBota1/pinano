@@ -1,14 +1,14 @@
 # pinano
-This is the GNU nano text editor version 2.8.4 packed as a snap for raspberry PI. 
+This is the GNU nano text editor version 2.8.5 packed as a snap for raspberry PI. 
 
 The source code used in this snap, is copied from the GNU nano svn, and stored in the following location: 
 
-https://github.com/VBota1/pinano/tree/master/nano-2.8.4
+https://github.com/VBota1/pinano/tree/master/nano-2.8.5
 
 
 All credits go to the GNU nano developers: 
 
- https://github.com/VBota1/pinano/nano-2.8.4/AUTHORS 
+ https://github.com/VBota1/pinano/nano-2.8.5/AUTHORS 
  
  https://www.nano-editor.org/who.php
 
