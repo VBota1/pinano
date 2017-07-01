@@ -1,5 +1,3 @@
-import sys
-
 #    Copyright (C) {2017}  {Bota Viorel}
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -15,6 +13,7 @@ import sys
 #    You should have received a copy of the GNU General Public License
 #    along with this program. If not, see <http://www.gnu.org/licenses/>.
 
+import sys
 
 def handleError ( str ):
 	print "ERROR: ",str
