@@ -25,6 +25,11 @@ handle_error ()
 
 echo "TITLE: GET NANO SOURCE CODE 2 STEPS"
 
+echo "Copyright (C) {2017}  {Bota Viorel}
+ This program comes with ABSOLUTELY NO WARRANTY.
+ This is free software, and you are welcome to redistribute it under the GPL conditions. 
+"
+
 if [ -z "${1}" ]; then
         handle_error "missing nano archive name"
 fi
