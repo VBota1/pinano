@@ -22,7 +22,7 @@ handle_error ()
         exit 0
 }
 
-echo "Copyright (C) {2017}  {Viorel Bota}
+echo "Copyright (C) {2017}  {Bota Viorel}
  This program comes with ABSOLUTELY NO WARRANTY.
  This is free software, and you are welcome to redistribute it under the GPL conditions. 
 "
