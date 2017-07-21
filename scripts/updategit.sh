@@ -52,6 +52,6 @@ cd snap
 git add $SNAP_NAME
 git add $snapcraft.yaml
 cd ..
-git commit -m "update to $NANO_FOLDER"
+git commit -m "update to $NANO_FOLDER_NAME"
 git push
 
