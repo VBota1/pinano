@@ -1,14 +1,14 @@
 # pinano
-This is the GNU nano text editor version 2.8.6 packed as a snap for raspberry PI. 
+This is the GNU nano text editor version 2.8.7 packed as a snap for raspberry PI. 
 
 The source code used in this snap, is copied from the GNU nano svn, and stored in the following location: 
 
-https://github.com/VBota1/pinano/tree/master/nano-2.8.6
+https://github.com/VBota1/pinano/tree/master/nano-2.8.7
 
 
 All credits go to the GNU nano developers: 
 
- https://github.com/VBota1/pinano/nano-2.8.6/AUTHORS 
+ https://github.com/VBota1/pinano/nano-2.8.7/AUTHORS 
  
  https://www.nano-editor.org/who.php
 
@@ -18,7 +18,7 @@ All credits go to the GNU nano developers:
     * or by cloning repository: ```git clone https://github.com/VBota1/pinano```
   2. Then navigate to the folder containing the snap
   3. Then run:
-    ```sudo snap install --dangerous pinano_2.8.6_armhf.snap```
+    ```sudo snap install --dangerous pinano_2.8.7_armhf.snap```
 
 # installation from ubuntu store
   ```sudo snap install pinano```
